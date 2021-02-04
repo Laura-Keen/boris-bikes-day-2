@@ -5,7 +5,7 @@ class Bike
   end
 
   def working?
-    
+    return true
   end
 
 end
